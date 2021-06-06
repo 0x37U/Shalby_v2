@@ -1,15 +1,20 @@
 
 # Shalby V2
 
-```bash
+```
 
 $ python 3.x
+
 $ python main.py
 
 ```
-```python
-pip install requests
-pip install colorama
+<h3> Don't forget install </h3>
+```
+
+# pip install requests
+
+# pip install colorama
+
 ```
 # How to use
  - Run Script
