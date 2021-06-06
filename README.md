@@ -1,7 +1,7 @@
 
 # Shalby V2
 
-```
+```bash
 
 $ python 3.x
 
