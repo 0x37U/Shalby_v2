@@ -28,8 +28,8 @@ $ pip install colorama
 
 
 # What's New
-
-• speed up
-• Bug fixes
+- Tools Updated
+- speed up
+- Bug fixes
 ### More Tools In My Facebook
 Link : https://www.facebook.com/Amr.v7
