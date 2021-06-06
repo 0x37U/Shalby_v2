@@ -8,7 +8,9 @@ $ python 3.x
 $ python main.py
 
 ```
-<h3> Don't forget install </h3>
+
+### Don't forget install
+
 ```bash
 
 $ pip install requests
