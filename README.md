@@ -9,11 +9,11 @@ $ python main.py
 
 ```
 <h3> Don't forget install </h3>
-```
+```bash
 
-# pip install requests
+$ pip install requests
 
-# pip install colorama
+$ pip install colorama
 
 ```
 # How to use
